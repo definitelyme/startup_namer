@@ -26,7 +26,7 @@ You can run this codelab using any of the following devices:
  - The [Android emulator](https://flutter.dev/docs/get-started/install/macos#set-up-the-android-emulator)
  - A browser (Chrome is required for debugging)
 
-###_To run the application on any device (Android & iOS);_
+### To run the application on any device (Android & iOS);
  - Open your terminal
  - Navigate to project root folder _(e.g. %USERPROFILE%/FlutterProject/startup_namer)_
  - Type `flutter run` and run
